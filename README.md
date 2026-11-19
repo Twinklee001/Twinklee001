@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e293b,100:f59e0b&height=210&section=header&text=Dao%20Duy%20Anh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DiAnhh%20%E2%80%A2%20Software%20Developer%20%7C%20Full-Stack%20Builder&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Dao Duy Anh Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,55:1e293b,100:f59e0b&height=210&section=header&text=Dao%20Duy%20Anh&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=DiAnhh%20%E2%80%A2%20Software%20Developer%20%7C%20BA%20%7C%20System%20Designer&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="Dao Duy Anh Header Banner" />
 </div>
 
 <!-- Typing Intro & Profile Views -->
